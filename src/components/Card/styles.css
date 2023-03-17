@@ -1,0 +1,24 @@
+.card-image{
+    background-color: white;
+    border-radius: 20px;
+    height: 12rem;
+    width: 13rem;
+    align-items: center;
+    display: flex;
+    margin-left:10px;
+}
+.card-image>img{
+    background-color: white;
+    margin: auto;
+    width: 10rem;
+    height: 10rem;
+
+}
+
+p{
+    color: #585858;
+    margin-left:10px;
+}
+h4{
+    margin-left:10px;
+}
